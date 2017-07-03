@@ -18,7 +18,5 @@ else if(n!=a){
 	int d=a*n-1;
 	System.out.println(d);
 }
-
-
 }
 }
